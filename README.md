@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ===== HEADER ANIMADO ===== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Quantitative+Researcher;Financial+Machine+Learning;Stochastic+Modeling+%26+Complex+Systems" alt="Typing SVG" />
+</h1>
 
-<!--
-**Yar-Cov/Yar-Cov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yar-CovO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Financial%20ML-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-success?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I build data-driven models at the intersection of **machine learning**, **stochastic calculus**, and **complex systems theory**, with a focus on **financial markets** and **high-dimensional dynamic environments**.
+
+```python
+class QuantResearcher:
+    def __init__(self):
+        self.name        = "Yar Cov"
+        self.role        = "Quantitative Researcher | Financial ML Engineer"
+        self.background  = ["Financial Economics", "Computer Engineering", "Physics"]
+        self.focus       = ["FinML", "Stochastic Processes", "Complex Systems"]
+        self.exploring   = ["Quantum-inspired models", "Advanced simulations"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! ")
