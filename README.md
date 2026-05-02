@@ -1,6 +1,6 @@
 <!-- ===== HEADER ANIMADO ===== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Quantitative+Researcher;Financial+Machine+Learning;Stochastic+Modeling+%26+Complex+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=700&lines=Quantitative+Researcher;Financial+Machine+Learning;Stochastic+Modeling+%26+Complex+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
