@@ -21,7 +21,7 @@ class QuantResearcher:
         self.name        = "Yar Cov"
         self.role        = "Quantitative Researcher | Financial ML Engineer"
         self.background  = ["Financial Economics", "Computer Engineering", "Physics"]
-        self.focus       = ["FinML", "MLOps", "Stochastic Processes", "Complex Systems"]
+        self.focus       = ["FinML", "MLOps", "Reinforcement Learning", "Complex Systems"]
         self.exploring   = ["Quantum-inspired models", "Advanced simulations"]
 
     def say_hi(self):
